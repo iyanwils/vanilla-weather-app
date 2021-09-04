@@ -12,6 +12,11 @@ h1 {
   font-weight: 100;
   line-height: 28px;
   margin-bottom: 0;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
 }
 
 li {
@@ -43,7 +48,7 @@ li::first-letter {
 .weather-temperature units {
   position: relative;
   font-size: 16px;
-  top: -30px;
+  top: -40px;
 }
 
 .weather-temperature img {
